@@ -13,7 +13,6 @@ Strong background in large-scale infrastructure, virtualization, and security au
 
 Core focus areas:
 
-- CVE / OSV ingestion and vulnerability intelligence pipelines  
 - Linux, Kubernetes, and hypervisor platforms  
 - Observability, agents, and telemetry systems  
 - Security automation and compliance tooling  
@@ -63,11 +62,11 @@ Core focus areas:
 
 ### Current Work
 
-- **EOS (Edge Observability System)** – Agent-based vulnerability scanning and telemetry  
-- **CVE / OSV / USN ingestion pipelines** – Large-scale vulnerability intelligence in PostgreSQL / Timescale  
-- **Platform Automation** – IaC, CI/CD, cluster lifecycle, security baselines  
-- **Virtualization & HCI** – Nutanix, Proxmox, Kubernetes, hybrid cloud  
-- **UAV Ground Systems & Telemetry** – MAVLink, RFD radios, embedded Linux  
+- Platform automation and infrastructure-as-code
+- Secure Kubernetes and virtualization environments
+- Hybrid and multi-cloud architecture (AWS, GCP, IBM)
+- Hyperconverged infrastructure and clustering (Nutanix, Proxmox)
+- UAV ground systems, telemetry, and embedded Linux
 
 ---
 
