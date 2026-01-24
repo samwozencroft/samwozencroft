@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Sam 👋</h2>
+<h2 align="center">Hey, I'm Sam</h2>
 
 <p align="center">
 Infrastructure • Security • Platform Engineering • Systems Automation
@@ -73,5 +73,5 @@ Core focus areas:
 ### Contact
 
 - 📧 Email: **samuelwozencroft@outlook.com**  
-- 📷 Instagram: https://instagram.com/woz.s_
+- 📷 Instagram: <https://instagram.com/woz.s_>
 - 💻 GitHub: **https://github.com/samwozencroft**
