@@ -13,5 +13,5 @@ Engineer · Infrastructure · Security · Systems Automation
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samwozencroft&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=samwozencroft&theme=dark" />
 </p>
