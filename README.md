@@ -22,7 +22,7 @@ Core focus areas:
 
 ### Featured Projects
 
-- **[Atomic](https://github.com/samwozencroft/atomic)**: A lightweight, native desktop code editor built with Electron and Monaco. Features integrated workspace management, real-time system performance insights, and custom native macOS menus.
+- **[Atomic](https://github.com/samwozencroft/atomic)**: A lightweight, native desktop code editor built with Electron and Monaco. Features integrated workspace management.
 
 ---
 
@@ -71,8 +71,8 @@ Core focus areas:
 - Platform automation and infrastructure-as-code
 - Secure Kubernetes and virtualization environments
 - Hybrid and multi-cloud architecture (AWS, GCP, IBM)
-- Hyperconverged infrastructure and clustering (Nutanix, Proxmox)
-- UAV ground systems, telemetry, and embedded Linux
+- Hyperconverged infrastructure and clustering (Nutanix, Proxmox, VMware, OpenStack)
+- UAV ground systems, telemetry, and embedded Linux subsystems
 
 ---
 
@@ -80,4 +80,3 @@ Core focus areas:
 
 - 📧 Email: **samuelwozencroft@outlook.com**  
 - 📷 Instagram: <https://instagram.com/woz.s_>
-- 💻 GitHub: **https://github.com/samwozencroft**
