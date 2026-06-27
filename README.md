@@ -20,6 +20,12 @@ Core focus areas:
 
 ---
 
+### Featured Projects
+
+- **[Atomic](https://github.com/samwozencroft/atomic)**: A lightweight, native desktop code editor built with Electron and Monaco. Features integrated workspace management, real-time system performance insights, and custom native macOS menus.
+
+---
+
 ### Certifications & Platforms
 
 - **Nutanix Certified Professional**
