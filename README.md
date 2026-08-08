@@ -76,7 +76,18 @@ Core focus areas:
 
 ---
 
-### Contact
+### Profiles
 
-- 📧 Email: **samuelwozencroft@outlook.com**  
-- 📷 Instagram: <https://instagram.com/woz.s_>
+<p>
+  <a href="https://github.com/samwozencroft">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://codepen.io/samwozencroft">
+    <img src="https://img.shields.io/badge/CodePen-121011?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/woz.s_">
+    <img src="https://img.shields.io/badge/Instagram-121011?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
