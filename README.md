@@ -84,10 +84,16 @@ Core focus areas:
   </a>
 
   <a href="https://codepen.io/samwozencroft">
-    <img src="https://img.shields.io/badge/CodePen-121011?style=for-the-badge&logo=codepen&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodePen-121011?style=for-the-badge" />
   </a>
 
   <a href="https://instagram.com/woz.s_">
     <img src="https://img.shields.io/badge/Instagram-121011?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
+  <a href="https://buymeacoffee.com/samwozencroft">
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-121011?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+  </a>
 </p>
+
+---
