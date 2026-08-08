@@ -39,11 +39,11 @@ Core focus areas:
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samwozencroft&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samwozencroft&layout=compact&theme=dark&count_private=true" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
