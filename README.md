@@ -23,6 +23,7 @@ Core focus areas:
 ### Featured Projects
 
 - **[Atomic](https://github.com/samwozencroft/atomic)**: A lightweight, native desktop code editor built with Electron and Monaco. Features integrated workspace management.
+- **[Floci UI](https://github.com/therealsocialproject/floci-ui)**: A web management console for the Floci cloud emulator, with AWS and Google Cloud views for exploring and managing emulated resources.
 
 ---
 
